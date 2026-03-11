@@ -1,4 +1,4 @@
-# Universidade
+# Universidade / University
 
 ➡️ [Licenciatura/Bachelor's Projects](https://github.com/PaulAlv99/Bachelor_s)
 
