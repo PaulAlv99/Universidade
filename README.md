@@ -1,5 +1,5 @@
 # Universidade
 
-➡️ [Bachelor's Projects](https://github.com/PaulAlv99/Universidade/blob/main/Bachelor/README.md)
+➡️ [Licenciatura/Bachelor's Projects](https://github.com/PaulAlv99/Bachelor_s)
 
-➡️ [Master's Projects](https://github.com/PaulAlv99/Universidade/blob/main/Master/README.md)
+➡️ [Mestrado/Master's Projects](https://github.com/PaulAlv99/Master_s)
